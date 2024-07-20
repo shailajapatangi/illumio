@@ -10,7 +10,7 @@ Assumption.
 2. The words with and without 's are treated different. For example your's id different from your
 3. Words containing special characters such as #wedding is different from wedding. #wedding is matched with only #weding.
 4. Similarly the case with @, %, $, &, *, (, ), ^, -,= , <,>, {,}, ", '
-5  The special characters such as  :, ;, !, /, ?, |, +, . , , , are treated as separators. Wedding: is matched with wedding.
+5.  The special characters such as  :, ;, !, /, ?, |, +, . , , , are treated as separators. Wedding: is matched with wedding.
 
 Testing:
 
